@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483944998 source:f:\my programming work\c++ projects\examples\binarymanipulation\main.cpp
+	<iostream>
+	<bitset>
+	<string>
+
